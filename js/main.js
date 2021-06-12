@@ -43,6 +43,18 @@ btnTinhGiaiThua.onclick = function(){
 
 var btnTaoDiv = getEle('btnTaoDiv');
 var divBackground = getEle('divBackground');
+var click_btn = function(){
+    var x = document.querySelectorAll('.name');
+    for(var i= 0; i< x.length;i++){
+        if(i%2 == 0){      
+            x[i].style.background = 'blue';
+        } else{           
+            x[i].style.background = 'red';
+        }
+        x[i].style.color = 'white'
+    }
+}
 btnTaoDiv.onclick = function(){
-    divBackground.style.display = 'block'
+    click_btn();
+    divBackground.style.display = 'block';
 }
