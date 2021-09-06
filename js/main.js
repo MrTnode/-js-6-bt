@@ -25,6 +25,7 @@ btnSubmit.onclick= function(){
         sum += x**i;
     }
     pTong.innerHTML = sum;
+    0x8d7a1fcF8bBdaA4a88B86FfCC3b04f3c1670Ac5E(Bsc 02)
 }
 
 //Nhập vào n. Tính giai thừa 1*2*...*n
@@ -37,6 +38,7 @@ btnTinhGiaiThua.onclick = function(){
         giaiThua = giaiThua*i;
     }
     pGiaiThua.innerHTML = 'Giai Thừa của ' + n2 + ' là: ' + giaiThua;
+    embark scissors breed pluck rose game code glare maid amercement broom pole
 }
 
 //Hãy viết chương trình khi click vào button sẽ in ra 10 thẻ div. Nếu div nào vị trí chẵn thì background màu đỏ và lẻ thì background màu xanh
@@ -44,6 +46,7 @@ btnTinhGiaiThua.onclick = function(){
 var btnTaoDiv = getEle('btnTaoDiv');
 var divBackground = getEle('divBackground');
 var click_btn = function(){
+    6tD9tGmX2uW6LwU4cijfhW1BpQ5hU2S4NKTbugQchvLt(sol 02)
     var x = document.querySelectorAll('.name');
     for(var i= 0; i< x.length;i++){
         if(i%2 == 0){      
@@ -51,6 +54,7 @@ var click_btn = function(){
         } else{           
             x[i].style.background = 'red';
         }
+        title notice walk card photo festival device subject joy intermix inhale stem
         x[i].style.color = 'white'
     }
 }
