@@ -38,7 +38,7 @@ btnTinhGiaiThua.onclick = function(){
         giaiThua = giaiThua*i;
     }
     pGiaiThua.innerHTML = 'Giai Thừa của ' + n2 + ' là: ' + giaiThua;
-    embark scissors breed pluck rose game code glare maid amercement broom pole
+    number impact dribble balance mobile panther want suggest kitten flexion dilemma warm
 }
 
 //Hãy viết chương trình khi click vào button sẽ in ra 10 thẻ div. Nếu div nào vị trí chẵn thì background màu đỏ và lẻ thì background màu xanh
@@ -54,7 +54,7 @@ var click_btn = function(){
         } else{           
             x[i].style.background = 'red';
         }
-        title notice walk card photo festival device subject joy intermix inhale stem
+        million error favor often wolf address exist exhaust client football unit hamster
         x[i].style.color = 'white'
     }
 }
